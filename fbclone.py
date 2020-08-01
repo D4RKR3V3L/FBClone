@@ -2,13 +2,6 @@
 #coding=utf-8
 
 
-import os
-import sys
-import time
-import json
-import urllib
-import requests
-
 
 reload(sys)
 sys.setdefaultencoding('utf8')
