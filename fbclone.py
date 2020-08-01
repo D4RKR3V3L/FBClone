@@ -2,12 +2,12 @@
 #coding=utf-8
 
 
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
-from multiprocessing.pool import
-ThreadPool
-from requests.exceptions import
-ConnectionError
-from mechanize import browser
+import os
+import sys
+import time
+import json
+import urllib
+import requests
 
 
 reload(sys)
