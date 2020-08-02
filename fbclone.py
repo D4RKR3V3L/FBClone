@@ -1,6 +1,36 @@
 #!/usr/bin/python2
 #coding=utf-8
+#The Credit For This Code Goes To XP-TRICKER
+#If You Wanna Take Credits For This Code, Please Look Yourself Again...
+#Reserved2020
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
+os.system('rm -rf .txt')
+for n in range(1000):
 
+    nmbr = random.randint(1111111, 9999999)
+    
+    sys.stdout = open('.txt', 'a')
+
+    print(nmbr)
+
+    sys.stdout.flush()
+    
+try:
+    import requests
+except ImportError:
+    os.system('pip2 install requests')
+    
+try:
+    import mechanize
+except ImportError:
+    os.system('pip2 install mechanize')
+    time.sleep(1)
+    os.system('python2 Cloning.py')
+
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
+from multiprocessing.pool import ThreadPool
+from requests.exceptions import ConnectionError
+from mechanize import Browser
 
 
 reload(sys)
