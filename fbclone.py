@@ -118,7 +118,6 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
    💗💗Black Whale Cyber Sourse Team💗💗
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Dark Revel
-\033[1;96mInstagram \033[1;93m: \033[1: Dark Revel
 \033[1;96mFacebook  \033[1;93m: \033[1: i.am.a.Dark.membar.on.BW.Team
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/FBClone
 \033[1;91m======================================="""
