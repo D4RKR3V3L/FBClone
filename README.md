@@ -18,6 +18,10 @@ chmod +x *
 
 python2 fbclone.py
 
+Username- BWCS
+password- DR  
+
+
 Injoy this tool
 
 Black Whale cyber sourse team
